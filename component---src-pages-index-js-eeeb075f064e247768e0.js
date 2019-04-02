@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{140:function(e,n,t){"use strict";t.r(n);var r=t(0),c=t.n(r);n.default=function(){return c.a.createElement("h1",{style:{textAlign:"center"}},"Carlo Schneider")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-eeeb075f064e247768e0.js.map
