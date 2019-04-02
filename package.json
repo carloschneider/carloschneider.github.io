@@ -1,0 +1,32 @@
+{
+  "name": "carloschneider",
+  "private": true,
+  "description": "Carlo Schneider site",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "dependencies": {
+    "gatsby": "^2.3.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "prettier": "^1.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carloschneider/carloschneider.github.io"
+  },
+  "bugs": {
+    "url": "https://github.com/carloschneider/carloschneider.github.io/issues"
+  }
+}
