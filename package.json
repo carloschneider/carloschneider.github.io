@@ -2,7 +2,7 @@
   "name": "carloschneider",
   "private": true,
   "description": "Carlo Schneider site",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
